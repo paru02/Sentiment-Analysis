@@ -13,17 +13,33 @@ This project focuses on developing a sentiment analysis tool for restaurant revi
 Models used:
 Experimented with different machine learning models and chose the models that are suitable for the specific dataset and problem, and fine-tuned their hyperparameters.
 
+
 ![image](https://github.com/paru02/Sentiment-Analysis/assets/109907700/77042492-c5d9-43b6-b22b-496ce839d95b)
 
 
+
+
 Models- 
+
 XGB Classifier
+
 Random Forest 
+
 Naïve Bayes
+
+
 ![image](https://github.com/paru02/Sentiment-Analysis/assets/109907700/d3bc9ac1-8ad9-43d8-b350-e16521e078d2)
 
+
+
 Naive Bayes gave 76% Accuracy
+
+
+
 Random Forest gave 71.5% Accuracy
+
+
+
 XGB gave 70% Accuracy
 
 
